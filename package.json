@@ -1,0 +1,9 @@
+{
+  "name": "ts-singleton-pattern",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
